@@ -1,4 +1,11 @@
-venv/
+# Environment variables
+.env
+
+# Project folders
+agents/
 MULTI_AI_AGENT.egg-info/
 logs/
-.env
+
+# Python cache
+__pycache__/
+*.pyc
